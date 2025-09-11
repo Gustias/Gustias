@@ -15,7 +15,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning C.
+  📚 I’m currently learning C and Assembly.
   <br>
   📫 How to reach me: <a href="mailto: gustascxz93@gmail.com">gustascxz93@gmail.com</a>
 </p>
