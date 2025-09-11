@@ -1,16 +1,18 @@
-## Hi there 👋
+# <p align="center">Hello / こんいちわ !</p>
 
-<!--
-**Gustias/Gustias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-stats.vercel.app/api?username=ItsTauTvyDas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+</p>
+<p align="center">
+  <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsTauTvyDas&theme=tokyonight&hide_border=false">
+</p>
+<p align="center">
+  <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTauTvyDas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+</p>
 
-Here are some ideas to get you started:
+# <p align="center">Projects I currently work on</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=UUIDSwapper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=ModernWaystones">
+</p>
